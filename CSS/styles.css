@@ -1,20 +1,16 @@
 .top_container {
     background-color: #212529;
-    border: 10px;
     color: #fff;
-    padding: 20px;
 }
 
 .mid_container {
     background-color: red;
-    border: 20px;
     height: 200px;
     width: 200px;
 }
 
 .bottom_container {
     background-color: blue;
-    border: 10px;
     height: 200px;
     width: 200px;
 }
