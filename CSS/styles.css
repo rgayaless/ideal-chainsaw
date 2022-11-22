@@ -1,4 +1,7 @@
 .top_container {
-    background-color: #212529;
     color: #fff;
+}
+
+body {
+    background-image: url("/Images/Shutterstock_1380673151.jpg");
 }
