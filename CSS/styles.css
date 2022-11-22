@@ -1,7 +1,19 @@
-.top_container {
+body {
+    background-color: #212529;
     color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    background-image: url("/Images/Shutterstock_1380673151.jpg");
+.top_container {
+    display: inline-block;
+    position: relative;
+
+}
+
+.mid_container {
+
+}
+
+.bottom_container {
+
 }
