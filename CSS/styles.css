@@ -3,3 +3,22 @@ body {
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
+.custom-shape-divider-bottom-1669783929 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1669783929 svg {
+    position: relative;
+    display: block;
+    width: calc(199% + 1.3px);
+    height: 500px;
+}
+
+.custom-shape-divider-bottom-1669783929 .shape-fill {
+    fill: #212529;
+}
